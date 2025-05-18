@@ -1,4 +1,4 @@
-# 👋 Hi, I'm AskMeForCode
+# 👋 Hi!
 
 Welcome to my freelance dev profile.  
 I help people automate boring stuff, build tools, and solve problems with code and AI.
