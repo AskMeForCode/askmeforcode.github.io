@@ -1,4 +1,4 @@
-# 👨‍💻 AskMeForCode — Pine Script & Trading Automation Expert
+# 👨‍💻 Pine Script & Trading Automation Expert
 
 Need help converting your Pine Script strategy? Want to automate your trades across platforms like MetaTrader, Binance, or Telegram?
 
