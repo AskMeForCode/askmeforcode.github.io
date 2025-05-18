@@ -20,7 +20,7 @@
   document.getElementById("form").addEventListener("submit", async (e) => {
     e.preventDefault();
     const data = Object.fromEntries(new FormData(e.target).entries());
-    const res = await fetch("https://bffb-78-84-247-145.ngrok-free.app", {
+    const res = await fetch("https://bffb-78-84-247-145.ngrok-free.app/webhook/contact", {
       method: "POST",
       headers: { "Content-Type": "application/json" },
       body: JSON.stringify(data),
