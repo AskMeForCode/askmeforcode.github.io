@@ -8,27 +8,12 @@
   <h1>Hello from GitHub Pages!</h1>
   <p>This is your freelance landing page. Customize it as you like.</p>
 <h2>Send me your request</h2>
-<form id="form">
+<form action="https://bffb-78-84-247-145.ngrok-free.app/webhook/contact" method="POST">
   <input type="text" name="name" placeholder="Your name" required /><br />
   <input type="email" name="email" placeholder="Your email" required /><br />
   <textarea name="message" placeholder="What do you need?" required></textarea><br />
   <button type="submit">Send</button>
 </form>
-<p id="status"></p>
-
-<script>
-  document.getElementById("form").addEventListener("submit", async (e) => {
-    e.preventDefault();
-    const data = Object.fromEntries(new FormData(e.target).entries());
-    const res = await fetch("https://your-id.ngrok-free.app/webhook/contact", {
-      method: "POST",
-      headers: { "Content-Type": "application/json" },
-      body: JSON.stringify(data),
-    });
-    document.getElementById("status").textContent =
-      res.ok ? "Message sent!" : "Error sending message.";
-  });
-</script>
 
 </body>
 </html>
