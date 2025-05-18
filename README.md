@@ -1,37 +1,53 @@
-# 👋 Hi!
+# 👨‍💻 AskMeForCode — Pine Script & Trading Automation Expert
 
-Welcome to my freelance dev profile.  
-I help people automate boring stuff, build tools, and solve problems with code and AI.
+Need help converting your Pine Script strategy? Want to automate your trades across platforms like MetaTrader, Binance, or Telegram?
+
+🎯 **I specialize in turning trading ideas into real, working code — fast.**
 
 ---
 
 ## 💼 What I Do
 
-- ⚙️ No-code/low-code automation (n8n, Make, Zapier)
-- 🤖 Telegram bots, AI agents, custom workflows
-- 🔌 API integrations (ChatGPT, Notion, Google, etc.)
-- 🕸️ Web scraping and data pipelines
+- 🔁 **Pine Script to MQL4 / MQL5** (MetaTrader 4/5 Expert Advisors)
+- 🔁 **Pine Script to Python** (for Binance, KuCoin, Bybit automation)
+- 🔁 **Pine Script to Node.js or n8n** (trigger Telegram bots, send alerts)
+- 🔁 **Pine Script to JavaScript or C#** (for cTrader or web integration)
+- 🔁 **Pine Script to ThinkScript / NinjaScript** (ThinkOrSwim, NinjaTrader)
+- ✅ Turn **manual trading rules or Excel formulas** into fully coded indicators
+- 🔁 **Back-convert Python/MQL/logic to Pine Script** for TradingView visualization
+
+---
+
+## ⚙️ Use Cases I Build For
+
+- 📈 Auto-trading & signal bots
+- 📬 Alert systems (Telegram, email, Discord)
+- 🧠 Strategy testing / visualization
+- 💼 Private indicator packaging (for selling on TradingView)
+- 🔁 Multi-platform strategy migration
+- 🔒 Custom dashboards & reporting pipelines
 
 ---
 
 ## 📬 Contact Me
 
-**Send me a quick message:**  
-👉 [Click here to contact me](https://formsubmit.io/send/your@email.com)
-
-> Or email directly: `your@email.com`
-
----
-
-## 🔧 Example Projects
-
-| Project                  | Stack                  | Demo        |
-|--------------------------|------------------------|-------------|
-| Telegram Order Bot       | Node.js + Telegraf     | [Preview](#) |
-| Notion Auto Reporter     | Notion API + n8n       | [Preview](#) |
-| AI Assistant w/ Webhooks | OpenAI + n8n + Email   | [Preview](#) |
+📧 **Email:** your@email.com  
+💬 **Telegram:** [@askmeforcode](https://t.me/askmeforcode)  
+🌍 **Website / GitHub Pages:** [askmeforcode.github.io](https://askmeforcode.github.io)
 
 ---
 
-> ✅ Available for freelance & part-time.  
-> Let’s automate something together!
+## 📊 Sample Gigs / Services
+
+| Task                                 | Tech Used             | Turnaround  |
+|--------------------------------------|------------------------|--------------|
+| Pine → MQL5                          | MetaEditor, MT5        | 1–2 days     |
+| Pine → Python (Binance bot)          | CCXT, Websockets       | 2–3 days     |
+| Webhook from TradingView alert       | n8n, Telegram, Email   | 1 day        |
+| Reverse engineer YouTube strategy    | Pine + Custom logic    | 1–2 days     |
+| Pine to JS widget for websites       | HTML, JS               | 1 day        |
+
+---
+
+> 💬 Ready to build your custom trading tool?  
+> Just send me your script or idea — and I’ll take care of the rest.
