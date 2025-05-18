@@ -31,7 +31,7 @@ Need help converting your Pine Script strategy? Want to automate your trades acr
 
 ## 📬 Contact Me
 
-📧 **Email:** your@email.com  
+📧 **Email:** info@askmeforcode.com  
 💬 **Telegram:** [@askmeforcode](https://t.me/askmeforcode)  
 🌍 **Website / GitHub Pages:** [askmeforcode.github.io](https://askmeforcode.github.io)
 
